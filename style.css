@@ -1,0 +1,15 @@
+.logo {
+  width: 100px;
+}
+
+label{
+  display: block;
+  box-sizing: border-box;
+  height: 50px;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+form{
+  width: 50%;
+}
